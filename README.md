@@ -2,7 +2,7 @@
 ## I have used React-Native, Redux Toolkit, and React-Navigation, to build this Project.
 ### APK link--(https://drive.google.com/file/d/1CHu3wO5J-z6LjLKt5dqvZzib2XCRdtT4/view?usp=sharing)
 ### Video explanation link---(https://drive.google.com/file/d/19ysKXxf3eU7g9AbrTvIWtipo06E1MXoW/view?usp=sharing)
-##ScreenShot
+## ScreenShot
 <p align="center" >
   <img src="https://github.com/Vikasyadav3935/Note-assign/assets/108892061/09cbb77a-7094-455d-a9f8-b8ccd146ad40" width="350" title="">
     <img src="https://github.com/Vikasyadav3935/Note-assign/assets/108892061/6133d813-8425-43cd-997f-574d320cbc2c" width="350" title="">
